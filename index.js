@@ -297,6 +297,3 @@ d3 = function() {
 
     return tip
   };
-
-};
-
